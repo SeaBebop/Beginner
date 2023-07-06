@@ -1,6 +1,18 @@
-# DCM 1
-    150 Epochs
-    epochs=150
-    batch_size=24
-    bottleneck=42
-    Mass Dataset=493 
+## DCM Test 1
+
+This project focuses on image analysis and the detection of breast cancer cells using convolutional autoencoders.
+
+### Test Parameters
+
+- Number of Epochs: 150
+- Batch Size: 24
+- Bottleneck Size: 42
+- Mass Dataset Size: 493
+
+### Description
+
+In this test run, a convolutional autoencoder was trained with the specified parameters. The DCM (Digital Imaging and Communications in Medicine) image type, specifically for breast cancer cells, was used as the dataset.
+
+The purpose of this project is to explore different combinations of parameters and architectures for convolutional autoencoders to improve the accuracy and performance of breast cancer cell detection.
+
+Please note that the success of the model may vary depending on several factors, including the complexity of the dataset, the quality of the data, and the choice of hyperparameters.
